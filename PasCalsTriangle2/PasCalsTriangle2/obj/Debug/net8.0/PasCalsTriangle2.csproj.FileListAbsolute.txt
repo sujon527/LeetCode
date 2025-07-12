@@ -1,0 +1,15 @@
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.AssemblyInfoInputs.cache
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.AssemblyInfo.cs
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.csproj.CoreCompileInputs.cache
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.sourcelink.json
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\bin\Debug\net8.0\PasCalsTriangle2.exe
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\bin\Debug\net8.0\PasCalsTriangle2.deps.json
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\bin\Debug\net8.0\PasCalsTriangle2.runtimeconfig.json
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\bin\Debug\net8.0\PasCalsTriangle2.dll
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\bin\Debug\net8.0\PasCalsTriangle2.pdb
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.dll
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\refint\PasCalsTriangle2.dll
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.pdb
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\PasCalsTriangle2.genruntimeconfig.cache
+E:\ProblemSolving\LeetCode\PasCalsTriangle2\PasCalsTriangle2\obj\Debug\net8.0\ref\PasCalsTriangle2.dll
